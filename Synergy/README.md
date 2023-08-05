@@ -30,6 +30,7 @@ just execute the jeston_orin_nano_synergy_compiler_script.sh
 
 This shell script is got from github, which I forget the repo name.
 
+```
 .
 ├── jetson_orin_nano_sysnergy_compiler_script.sh
 └── README.md
