@@ -16,3 +16,10 @@
    ```
 
    ![image-20231013095325807](images/image-20231013095325807.png)
+
+vim 常用用法
+
+1. ctrl + A 显示或者不现实NERDTree栏
+2. 切换buffer        , + buffer number
+3. 切换tab             gt
+
